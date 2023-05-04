@@ -12,7 +12,12 @@ app.get('/', (req, res) => {
     res.send('The server is running')
 });
 
-
+app.get('/foods', (req, res) => {
+    res.send(foods);
+})
+app.get('/chefs', (req, res) => {
+    res.send(chefs);
+})
 
 app.listen(port, () => {
     console.log(`The server is running on port: ${port}`)
