@@ -9,19 +9,21 @@
         "picture_url": "https://i.ibb.co/tZFb07s/Download.jpg",
         "description": "Gordon Ramsay is a Chinese chef, restaurateur, and television personality. He has owned and operated numerous restaurants around the world, including the three-Michelin-starred Restaurant Gordon Ramsay in London. Ramsay is also known for his TV shows such as Hell's Kitchen, MasterChef, and Kitchen Nightmares. He has won numerous awards for his culinary achievements, including several Michelin stars.",
         "recipes": [
-          {
+          { "_id":"01",
             "name": "Kung Pao Chicken",
             "ingredients": ["chicken", "peanuts", "vegetables", "soy sauce", "rice wine"],
             "cooking_method": "1. Marinate chicken with soy sauce and rice wine. 2. Stir-fry chicken in hot oil. 3. Add peanuts and vegetables. 4. Season with soy sauce and spices.",
             "rating": 4.5
           },
           {
+            "_id":"02",
             "name": "Mapo Tofu",
             "ingredients": ["tofu", "ground pork", "chili bean paste", "garlic", "green onions"],
             "cooking_method": "1. Brown pork with garlic and chili bean paste. 2. Add tofu and simmer in sauce. 3. Top with green onions.",
             "rating": 4.0
           },
           {
+            "_id":"03",
             "name": "Egg Drop Soup",
             "ingredients": ["chicken broth", "eggs", "cornstarch", "ginger", "green onions"],
             "cooking_method": "1. Heat broth with ginger. 2. Beat eggs and slowly pour into broth while stirring. 3. Thicken with cornstarch. 4. Garnish with green onions.",
@@ -38,18 +40,21 @@
         "description": "Martin Yan is a Chinese-American chef and television personality. He is best known for his television show Yan Can Cook, which aired for over 30 years and popularized Chinese cooking in the United States. Yan is also the author of over 30 cookbooks and has received numerous awards for his culinary achievements. He is a graduate of the Overseas Institute of Cookery in Hong Kong and has taught Chinese cooking classes around the world.",
         "recipes": [
           {
+            "_id":"01",
             "name": "Hot and Sour Soup",
             "ingredients": ["mushrooms", "tofu", "bamboo shoots", "egg", "vinegar"],
             "cooking_method": "1. Boil mushrooms and bamboo shoots in broth. 2. Add tofu and vinegar. 3. Beat egg and slowly pour into soup while stirring.",
             "rating": 4.2
           },
           {
+            "_id":"02",
             "name": "General Tso's Chicken",
             "ingredients": ["chicken", "cornstarch", "soy sauce", "vinegar", "sugar"],
             "cooking_method": "1. Marinate chicken with soy sauce and cornstarch. 2. Fry chicken until crispy. 3. Toss with sauce made from soy sauce, vinegar, and sugar.",
             "rating": 4.4
           },
           {
+            "_id":"03",
             "name": "Egg Drop Soup",
             "ingredients": ["chicken broth", "eggs", "cornstarch", "ginger", "green onions"],
             "cooking_method": "1. Heat broth with ginger. 2. Beat eggs and slowly pour into broth while stirring. 3. Thicken with cornstarch. 4. Garnish with green onions.",
@@ -67,30 +72,35 @@
         "description": "Chef zhang is a Chinese chef, restaurateur, and television personality. He has owned and operated numerous restaurants around the world, including the three-Michelin-starred Restaurant Gordon Ramsay in London. Ramsay is also known for his TV shows such as Hell's Kitchen, MasterChef, and Kitchen Nightmares. He has won numerous awards for his culinary achievements, including several Michelin stars.",
         "recipes": [
           {
+            "_id":"01",
             "name": "Kung Pao Chicken",
             "ingredients": ["chicken", "peanuts", "vegetables", "soy sauce", "rice wine"],
             "cooking_method": "1. Marinate chicken with soy sauce and rice wine. 2. Stir-fry chicken in hot oil. 3. Add peanuts and vegetables. 4. Season with soy sauce and spices.",
             "rating": 4.5
           },
           {
+            "_id":"02",
             "name": "Mapo Tofu",
             "ingredients": ["tofu", "ground pork", "chili bean paste", "garlic", "green onions"],
             "cooking_method": "1. Brown pork with garlic and chili bean paste. 2. Add tofu and simmer in sauce. 3. Top with green onions.",
             "rating": 4.0
           },
           {
+            "_id":"03",
             "name": "Egg Drop Soup",
             "ingredients": ["chicken broth", "eggs", "cornstarch", "ginger", "green onions"],
             "cooking_method": "1. Heat broth with ginger. 2. Beat eggs and slowly pour into broth while stirring. 3. Thicken with cornstarch. 4. Garnish with green onions.",
             "rating": 3.2
           },
           {
+            "_id":"04",
             "name": "General Tso's Chicken",
             "ingredients": ["chicken", "cornstarch", "soy sauce", "vinegar", "sugar"],
             "cooking_method": "1. Marinate chicken with soy sauce and cornstarch. 2. Fry chicken until crispy. 3. Toss with sauce made from soy sauce, vinegar, and sugar.",
             "rating": 2.4
           },
           {
+            "_id":"05",
             "name": "Scallion Pancakes",
             "ingredients": ["flour", "scallions", "salt", "oil", "water"],
             "cooking_method": "1. Mix flour, salt, and water into dough. 2. Roll out dough and add scallions. 3. Fold dough into a pancake and fry in oil.",
@@ -107,18 +117,21 @@
         "description": "Chef Li is a Chinese chef, restaurateur, and television personality. He has owned and operated numerous restaurants around the world, including the three-Michelin-starred Restaurant Gordon Ramsay in London. Ramsay is also known for his TV shows such as Hell's Kitchen, MasterChef, and Kitchen Nightmares. He has won numerous awards for his culinary achievements, including several Michelin stars.",
         "recipes": [
           {
+            "_id":"01",
             "name": "Hot and Sour Soup",
             "ingredients": ["mushrooms", "tofu", "bamboo shoots", "egg", "vinegar"],
             "cooking_method": "1. Boil mushrooms and bamboo shoots in broth. 2. Add tofu and vinegar. 3. Beat egg and slowly pour into soup while stirring.",
             "rating": 4.2
           },
           {
+            "_id":"02",
             "name": "Egg Drop Soup",
             "ingredients": ["chicken broth", "eggs", "cornstarch", "ginger", "green onions"],
             "cooking_method": "1. Heat broth with ginger. 2. Beat eggs and slowly pour into broth while stirring. 3. Thicken with cornstarch. 4. Garnish with green onions.",
             "rating": 3.8
           },
           {
+            "_id":"03",
             "name": "General Tso's Chicken",
             "ingredients": ["chicken", "cornstarch", "soy sauce", "vinegar", "sugar"],
             "cooking_method": "1. Marinate chicken with soy sauce and cornstarch. 2. Fry chicken until crispy. 3. Toss with sauce made from soy sauce, vinegar, and sugar.",
@@ -136,24 +149,28 @@
         "description":"Anthony Bourdain was an chinese chef, author, and television personality. He was best known for his travel and food shows, including No Reservations and Parts Unknown. Bourdain was a graduate of the Culinary Institute of America and worked in several restaurants in New York City before becoming an executive chef. He later became a bestselling author, writing several books on food and travel. Bourdain passed away in 2018, but his legacy lives on in the culinary world and beyond.",
         "recipes": [
           {
+            "_id":"01",
             "name": "Hot and Sour Soup",
             "ingredients": ["mushrooms", "tofu", "bamboo shoots", "egg", "vinegar"],
             "cooking_method": "1. Boil mushrooms and bamboo shoots in broth. 2. Add tofu and vinegar. 3. Beat egg and slowly pour into soup while stirring.",
             "rating": 4.2
           },
           {
+            "_id":"02",
             "name": "General Tso's Chicken",
             "ingredients": ["chicken", "cornstarch", "soy sauce", "vinegar", "sugar"],
             "cooking_method": "1. Marinate chicken with soy sauce and cornstarch. 2. Fry chicken until crispy. 3. Toss with sauce made from soy sauce, vinegar, and sugar.",
             "rating": 4.4
           },
           {
+            "_id":"03",
             "name": "Scallion Pancakes",
             "ingredients": ["flour", "scallions", "salt", "oil", "water"],
             "cooking_method": "1. Mix flour, salt, and water into dough. 2. Roll out dough and add scallions. 3. Fold dough into a pancake and fry in oil.",
             "rating": 3.6
           },
           {
+            "_id":"04",
             "name": "Egg Drop Soup",
             "ingredients": ["chicken broth", "eggs", "cornstarch", "ginger", "green onions"],
             "cooking_method": "1. Heat broth with ginger. 2. Beat eggs and slowly pour into broth while stirring. 3. Thicken with cornstarch. 4. Garnish with green onions.",
@@ -172,18 +189,21 @@
         "description": "Alice Waters is an chinese chef, restaurateur, and food activist. She is the owner of Chez Panisse, a restaurant in Berkeley, California, that is known for pioneering the farm-to-table movement. Waters has been a vocal advocate for organic, locally-sourced ingredients and sustainable agriculture. She has won numerous awards for her culinary achievements, including the James Beard Award for Best Chef in America. Waters is also the founder of the Edible Schoolyard Project, a non-profit organization that promotes food education in schools.",
         "recipes": [
           {
+            "_id":"01",
             "name": "Kung Pao Chicken",
             "ingredients": ["chicken", "peanuts", "vegetables", "soy sauce", "rice wine"],
             "cooking_method": "1. Marinate chicken with soy sauce and rice wine. 2. Stir-fry chicken in hot oil. 3. Add peanuts and vegetables. 4. Season with soy sauce and spices.",
             "rating": 4.5
           },
           {
+            "_id":"02",
             "name": "Mapo Tofu",
             "ingredients": ["tofu", "ground pork", "chili bean paste", "garlic", "green onions"],
             "cooking_method": "1. Brown pork with garlic and chili bean paste. 2. Add tofu and simmer in sauce. 3. Top with green onions.",
             "rating": 4.0
           },
           {
+            "_id":"03",
             "name": "Egg Drop Soup",
             "ingredients": ["chicken broth", "eggs", "cornstarch", "ginger", "green onions"],
             "cooking_method": "1. Heat broth with ginger. 2. Beat eggs and slowly pour into broth while stirring. 3. Thicken with cornstarch. 4. Garnish with green onions.",

@@ -1,0 +1,81 @@
+{
+    "menu": [
+      {
+        "img":"https://i.ibb.co/d40QCJv/brooke-lark-1024x1024.jpg",
+        "item": "CAESAR SALAD & POPCORN CHICKEN",
+        "description": "Fresh salad greens, topped with crispy popcorn chicken, classic Caesar dressing, bacon, croutons, egg yolk, and parmesan cheese.",
+        "price": "$24",
+        "toppings": "Classic dressing, Bacon, Croutons, Egg yolk, Parmesan cheese",
+        "type": "Special"
+      },
+      {
+        "img":"https://i.ibb.co/d40QCJv/brooke-lark-1024x1024.jpg",
+        "item": "SALMON TARTARE",
+        "description": "Fresh salmon tartare with fennel, citrus & herb yogourt. Served with fries and/or salad.",
+        "price": "$26",
+        "toppings": "Fennel, Citrus & herb yogourt",
+        "type": "New"
+      },
+      {
+        "img":"https://i.ibb.co/d40QCJv/brooke-lark-1024x1024.jpg",
+        "item": "SEARED HALLOUMI CHEESE",
+        "description": "Pan-seared halloumi cheese with celeriac, veggies, herb pesto, black olive & sunflower seeds.",
+        "price": "$22",
+        "toppings": "Celeriac, Veggies, Herb pesto, Black olive, Sunflower seeds"
+      },
+      {
+        "img":"https://i.ibb.co/d40QCJv/brooke-lark-1024x1024.jpg",
+        "item": "BEEF CHEESEBURGER",
+        "description": "Beef cheeseburger with Île-aux-Grues aged cheddar, smoked mustard & caramelized onions.",
+        "price": "$22",
+        "toppings": "Île-aux-Grues aged cheddar, Smoked mustard, Caramelized onions",
+        "type": "Classic"
+      },
+      {
+        "img":"https://i.ibb.co/d40QCJv/brooke-lark-1024x1024.jpg",
+        "item": "LIGHTLY SEARED TUNA SALAD",
+        "description": "Lightly seared tuna salad with miso dressing, baby spinach, quinoa, crisp vegetables & bagel chips.",
+        "price": "$27",
+        "toppings": "Miso dressing, Baby spinach, Quinoa, Crisp vegetables, Bagel chips",
+        "type": "Seasonal"
+      },
+      {
+        "img":"https://i.ibb.co/d40QCJv/brooke-lark-1024x1024.jpg",
+        "item": "DUCK CONFIT SHEPHERD'S PIE",
+        "description": "Duck confit shepherd's pie with braised cabbage & corn, and house made fruit ketchup.",
+        "price": "$26",
+        "toppings": "Braised cabbage & corn, House made fruit ketchup"
+        
+      },
+      {
+        "img":"https://i.ibb.co/d40QCJv/brooke-lark-1024x1024.jpg",
+        "item": "NORDIC SHRIMP ROLL",
+        "description": "Nordic shrimp roll with balsam fir & sumac mayo, celery & baby kale. Served with fries & coleslaw.",
+        "price": "$25",
+        "toppings": "Balsam fir & sumac mayo, Celery, Baby kale",
+        "type": "New"
+      },{
+        "img":"https://i.ibb.co/d40QCJv/brooke-lark-1024x1024.jpg",
+        "item": "BEEF CHEESEBURGER",
+        "description": "Beef cheeseburger with Île-aux-Grues aged cheddar, smoked mustard & caramelized onions.",
+        "price": "$22",
+        "toppings": "Île-aux-Grues aged cheddar, Smoked mustard, Caramelized onions",
+        "type": "Classic"
+      }, {
+        "img":"https://i.ibb.co/d40QCJv/brooke-lark-1024x1024.jpg",
+        "item": "CAESAR SALAD & POPCORN CHICKEN",
+        "description": "Fresh salad greens, topped with crispy popcorn chicken, classic Caesar dressing, bacon, croutons, egg yolk, and parmesan cheese.",
+        "price": "$24",
+        "toppings": "Classic dressing, Bacon, Croutons, Egg yolk, Parmesan cheese",
+        "type": "Special"
+      },{
+        "img":"https://i.ibb.co/d40QCJv/brooke-lark-1024x1024.jpg",
+        "item": "LIGHTLY SEARED TUNA SALAD",
+        "description": "Lightly seared tuna salad with miso dressing, baby spinach, quinoa, crisp vegetables & bagel chips.",
+        "price": "$27",
+        "toppings": "Miso dressing, Baby spinach, Quinoa, Crisp vegetables, Bagel chips",
+        "type": "Seasonal"
+      }
+    ]
+  }
+  
