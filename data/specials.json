@@ -68,13 +68,6 @@
         "price": "$24",
         "toppings": "Classic dressing, Bacon, Croutons, Egg yolk, Parmesan cheese",
         "type": "Special"
-      },{
-        "img":"https://i.ibb.co/d40QCJv/brooke-lark-1024x1024.jpg",
-        "item": "LIGHTLY SEARED TUNA SALAD",
-        "description": "Lightly seared tuna salad with miso dressing, baby spinach, quinoa, crisp vegetables & bagel chips.",
-        "price": "$27",
-        "toppings": "Miso dressing, Baby spinach, Quinoa, Crisp vegetables, Bagel chips",
-        "type": "Seasonal"
       }
     ]
   }
